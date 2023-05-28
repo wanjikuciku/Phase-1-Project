@@ -42,7 +42,7 @@ The 'Comedy,Documentary,Fantasy' has the highest rating(9.4) according to this l
 
 ![Alt text](genre_gross.png)
 
-The Drama|Mystery and Suspense Genre has the highest Worldwide gross with over 1 billion in total.
+The Drama|Mystery and Suspense Genre has the highest Worldwide gross with over 200 Million in total.
 
 ### Q3. Is there a correlation between budget and profit
 
