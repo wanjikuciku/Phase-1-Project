@@ -65,6 +65,7 @@ However we need to do more sample tests to investigate the correlation of budget
 
 # Presentation
 
+https://www.canva.com/design/DAFkGHessjs/e04bzZX6OIc45yhm4Vwdpw/edit?utm_content=DAFkGHessjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
