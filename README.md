@@ -30,7 +30,7 @@ This datasets were extracted through the following sites
 
 # Exploratory Data analysis
 
-## Screenshots
+## Data visualization
 
 ### Q1. Which genre has the highest ratings
 
