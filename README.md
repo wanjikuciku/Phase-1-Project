@@ -48,8 +48,8 @@ The Drama|Mystery and Suspense Genre has the highest Worldwide gross with over 1
 
 ![Alt text](budget_profit.png)
 
-There is moderate correlation between production budget and profit(0.6). Without further calculation with a significance level we have insufficient evidence to reject the hypothesis thus support that the production budget increases, profit tends to increase.
-However we need to do more sample tests to investigate the correlation of budget and profit as it is not causation. Many factors can make a movie have high profits such as director or actors or even time the movie was being released.
+There is moderate correlation between production budget and profit(0.6). Thus support that the production budget increases, profit tends to increase.
+
 
 # Conclusion
 
