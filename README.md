@@ -63,6 +63,10 @@ There is moderate correlation between production budget and profit(0.6). Thus su
 2. Advice to create Drama,mystery,suspense genre of movies as they have the highest worldwide gross
 3. Lastly invest more money into movie production as it gives most profit.
 
+# Next steps
+* Given more time i would like to investigate whether Actors and Directors affect the gross of movies.
+* Also What time during the year i.e whether summer, winter do most movies get released.
+
 # Presentation
 
 https://www.canva.com/design/DAFkGHessjs/e04bzZX6OIc45yhm4Vwdpw/edit?utm_content=DAFkGHessjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
